@@ -1,0 +1,2 @@
+https://github.com/ordinarymiddleclass/linarg_practice
+https://math.stackexchange.com/questions/3967922/singular-values-and-matrix-rank
