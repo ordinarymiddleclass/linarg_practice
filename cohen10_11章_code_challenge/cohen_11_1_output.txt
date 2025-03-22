@@ -1,0 +1,8 @@
+Generated square matrix M: 
+[[ 9  5  7]
+ [ 6  9  2]
+ [10  8  5]]
+Generated scalar beta: 10
+Determinant of the square matrix M: -83.00000000000003
+Determinant of the beta*M matrix: -83000.00000000001
+Determinant of the beta*M matrix using the property det(beta*M) = beta^n * det(M): -83000.00000000003
